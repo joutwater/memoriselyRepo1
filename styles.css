@@ -31,6 +31,12 @@ body {
     flex-shrink: 0;
 }
 
+.card.hobby {
+    background-color: #e6f7e6;
+    border: 1px solid #1f5e1f;
+    border-radius: 4px;
+}
+
 .card-title {
     font-size: 32px;
     font-weight: 600;
